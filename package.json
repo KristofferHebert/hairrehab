@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KristofferHebert/hairrehab/issues"
   },
-  "homepage": "https://github.com/KristofferHebert/hairrehab#readme"
+  "homepage": "https://github.com/KristofferHebert/hairrehab#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
