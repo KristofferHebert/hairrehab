@@ -7,11 +7,12 @@ html, body {
 
 body {
     overflow: hidden;
+    background-color: black;
 }
 
 /* Wrapper with padding */
 .wrap  {
-    height: 300px;
+    height: 900px;
     padding: 5%;
 }
 
@@ -188,25 +189,31 @@ body {
 
 /* jTinder images */
 #tinderslide .pane5 .img {
+    background: url("../images/80s-hair-whitney-houston.jpg") no-repeat scroll center center;
+    background-size: cover;
+}
+
+#tinderslide .pane6 .img {
     background: url("../images/80s hillary.jpg") no-repeat scroll center center;
     background-size: cover;
 }
 #tinderslide .pane4 .img {
-    background: url("../images/charlize_theron_80s.jpg") no-repeat scroll center center;
+    background: url("../images/janet_jackson_bigger_hair.jpg") no-repeat scroll center center;
     background-size: cover;
 }
 #tinderslide .pane3 .img {
-    background: url("../images/charlize_theron_80s.jpg") no-repeat scroll center center;
+    background: url("../images/eighties_big_hair.jpg") no-repeat scroll center center;
     background-size: cover;
 }
 #tinderslide .pane2 .img {
-    background: url("../images/charlize_theron_80s.jpg") no-repeat scroll center center;
+    background: url("../images/80s-celebrity-bad-hair-1_2016-02-08_21-45-28-589x391.jpg") no-repeat scroll center center;
     background-size: cover;
 }
 #tinderslide .pane1 .img {
-    background: url("../images/harrison_ford_80s.jpg") no-repeat scroll center center;
+    background: url("../images/dolly_parton_80s.jpg") no-repeat scroll center center;
     background-size: cover;
 }
+
 
 /* jTinder status text */
 #status {
